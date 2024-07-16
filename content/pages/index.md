@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    subtitle: Subtitle goes here
+    subtitle: Subtitle goes her
     text: ''
     actions:
       - label: Get started
