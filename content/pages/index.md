@@ -3,10 +3,6 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      text: ''
-      color: text-dark
-      type: TitleBlock
     subtitle: Subtitle goes here
     text: ''
     actions:
