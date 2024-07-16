@@ -304,7 +304,9 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: >-
+        /images/Blue White Gradient Minimalist How To Boost Your Social Media
+        Presence Linkedin Carousel (YouTube Thumbnail) (18).png
       altText: Fun feature preview
       type: ImageBlock
     badge:
