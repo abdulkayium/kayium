@@ -8,7 +8,9 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: >-
+    /images/Blue White Gradient Minimalist How To Boost Your Social Media
+    Presence Linkedin Carousel (YouTube Thumbnail) (18).png
   altText: Case study 1
   styles:
     self:
