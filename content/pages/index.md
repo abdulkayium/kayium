@@ -205,7 +205,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Abdout Me
-      url: 'https://youtu.be/I3kFymp3il0'
+      url: ''
       controls: false
       aspectRatio: '16:9'
       styles:
