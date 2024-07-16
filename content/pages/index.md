@@ -32,9 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: >-
-        /images/Blue White Gradient Minimalist How To Boost Your Social Media
-        Presence Linkedin Carousel (YouTube Thumbnail) (18).png
+      url: /images/abstract-feature1.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
