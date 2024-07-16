@@ -46,6 +46,9 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: >-
+        /images/Blue White Gradient Minimalist How To Boost Your Social Media
+        Presence Linkedin Carousel (YouTube Thumbnail) (18).png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
